@@ -1,0 +1,40 @@
+header{
+  background-color: midnightblue;
+
+  .navbar{
+      padding: 1rem;
+
+      .navbar-brand img{
+          width: 200px;
+      }
+  }
+  
+}
+main{
+  p{
+      font-size: 0.9rem;
+  }
+}
+.card{
+  border-radius: 0rem;
+  height: 100%;
+  .card-img-top{
+      border-radius: 0rem;
+  }
+  img{
+      height:200px;
+  }
+  .card-footer{
+      background-color: transparent;
+      border-top: 0;
+      font-size: 0.9rem;
+      .btn-yellow{
+          background-color: #f6fa36;
+          border-radius: 0px;
+          padding: 0.6rem 2.0rem;
+          font-size: .9rem;
+      }
+  }
+}
+
+
