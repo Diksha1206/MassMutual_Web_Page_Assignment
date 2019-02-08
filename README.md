@@ -3,7 +3,7 @@
 HOW TO RUN:
 Create a new folder.
 Paste the index.html and css folder inside it.
-The index.html is the main html file that you might want to open.
+The index.html is the main html file that you might want to open.  => To see the mobile view , select the mobile icon from the developers tool or resize the browser window.
 
 
 
